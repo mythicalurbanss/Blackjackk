@@ -463,4 +463,4 @@ var advise = function () {
         console.log("Error: Player's hand was " + playerTotal + " and dealer's faceup was " + dealerUp + ".");
     }
     return;
-}
+
